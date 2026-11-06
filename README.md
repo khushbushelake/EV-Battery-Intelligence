@@ -241,3 +241,30 @@ It covers the system overview, dataset, preprocessing, model configurations, val
 **Khushbu Uttam Shelake**
 
 B.Tech – Computer Science and Engineering
+---
+
+## 📸 Application Screenshots
+
+### 1. Project Overview
+![Project Overview](screenshots/01-overview.png)
+
+### 2. Battery Data Analysis
+![Battery Data Analysis](screenshots/02-data-analysis.png)
+
+### 3. Model Comparison
+![Model Comparison](screenshots/03-model-comparison.png)
+
+### 4. SOC Prediction Dashboard
+![SOC Prediction](screenshots/04-soc-prediction.png)
+
+---
+
+## 🌐 Live Application
+
+Explore the deployed application:
+
+[Launch EV Battery Intelligence System](https://ev-battery-intelligence-d6sgupkdzs7u2bxd3tmprt.streamlit.app/)
+
+## 💻 Source Code
+
+[View GitHub Repository](https://github.com/khushbushelake/EV-Battery-Intelligence)
